@@ -3,8 +3,8 @@ class MacCleaner < Formula
 
   desc "Aggressive macOS cache cleaner CLI"
   homepage "https://github.com/michaelsam94/mac_cleaner"
-  url "https://github.com/michaelsam94/mac_cleaner/archive/refs/tags/v1.1.0.tar.gz"
-  sha256 "4f1868bc3cc9883e91b29994440fb3848efde43150864705ef836878ebe10d02"
+  url "https://github.com/michaelsam94/mac_cleaner/archive/refs/tags/v1.2.0.tar.gz"
+  sha256 "a48dcb05b4b974fcbc7eaab87732baa45078f5e282efc388b9e8def399f03f41"
   license "MIT"
   head "https://github.com/michaelsam94/mac_cleaner.git", branch: "main"
 
